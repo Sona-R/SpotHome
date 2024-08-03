@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "619374604919",
+    "project_id": "spothome-a94bf",
+    "storage_bucket": "spothome-a94bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619374604919:android:6ffed2d76207a511dd0c72",
+        "android_client_info": {
+          "package_name": "com.example.spot_homee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpxBu-bywRnPKocTB3ML22TgdhhyZ9m9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
